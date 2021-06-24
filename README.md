@@ -1,0 +1,1 @@
+# Amazon Rakuten Comparison Extension
